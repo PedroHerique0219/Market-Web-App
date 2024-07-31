@@ -46,7 +46,7 @@ There are additional requests for price chart and search that are fired when use
 1. Clone the repository
 
 ```bash
-git clone https://github.com/PedroHerique0219/BaseMarket.git
+git clone https://github.com/PedroHerique0219/Market-Web-App.git
 ```
 2. Go to the project directory
 - Run backend
