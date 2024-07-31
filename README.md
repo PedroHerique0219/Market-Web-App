@@ -48,20 +48,15 @@ There are additional requests for price chart and search that are fired when use
 ```bash
 git clone https://github.com/PedroHerique0219/BaseMarket.git
 ```
-2. Go to the project directory and install dependencies for both the client and server
-
+2. Go to the project directory
+- Run backend
+```bash
+npm install
+npm start
+```
+- Run frontend
 ```bash
 cd client
 npm install
-```
-
-```bash
-cd ..
-npm install
-```
-
-3. Start the project
-
-```bash
 npm start
 ```
