@@ -33,9 +33,7 @@
     "request": "^2.88.2",
     "resend": "^0.17.2",
     "sqlite3": "^5.1.6",
-    "transliteration": "^2.3.5"
-  },
-  "devDependencies": {
+    "transliteration": "^2.3.5",
     "nodemon": "^1.19.2"
   },
   "_moduleAliases": {
