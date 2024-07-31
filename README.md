@@ -2,12 +2,6 @@
 
 A brief overview how Info part of BaseSwap website works.
 
-## Table of Contents
-
-- [Project Overview](#Code-structure)
-- [Features](#Requests-flow)
-- [Technologies](#Installation)
-
 ## Code structure
 
 In terms of React components Info section is just another view (located in [client/src/views/Info](../client/src/views/Info)) that is assigned route (in [App.tsx](../client/src/App.tsx)).  
