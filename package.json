@@ -6,7 +6,7 @@
     "node": "20.9.0"
   },
   "scripts": {
-    "start": "concurrently \"nodemon server.js\" \"cd ./client && npm run start\"",
+    "start": "nodemon server.js",
     "production": "NODE_ENV=production",
     "setup": "node setup/setup.js",
     "reset": "node setup/reset.js"
